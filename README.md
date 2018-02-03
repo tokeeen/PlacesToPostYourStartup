@@ -45,7 +45,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Beta Bound - http://www.betabound.com/announce/
 * Beta Page - https://betapage.co/
 * Betafy - https://www.betafy.co/easysignup/startup
-* BetaList - https://betalist.com/submit (fait le 3 février 2018)
+* BetaList - https://betalist.com/submit (fait le 3 février 2018, refusé à cause de la landing page)
 * Beterest - https://beterest.com/submit-startup/
 * Boing Boing - http://boingboing.net/sub/
 * BreakPoint - https://breakpoint.io/new/

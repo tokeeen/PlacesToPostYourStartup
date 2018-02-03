@@ -104,7 +104,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * PreApps - http://www.preapps.com/
 * Product Hunt - http://www.producthunt.com/
 * Programmable Web - https://www.programmableweb.com/news/how-to-pitch-programmableweb-covering-your-news/2016/11/18
-* PublicityX - https://www.publicityx.com/startups/new
 * Rate My Startup - http://ratemystartup.com/submit-your-startup/
 * Really-aweso.me - http://www.really-aweso.me/submit-your-startup/
 * Reikut - https://reikut.com/

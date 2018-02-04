@@ -5,14 +5,6 @@
 Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) which referenced [this HN post ](https://news.ycombinator.com/item?id=6492109). Special thanks to TripHappy for letting me use their updated list from [this blog post](https://triphappy.com/blog/131-startup-directories-to-promote-your-startup/1).
 
 * /r/AlphaandBetausers - https://www.reddit.com/r/alphaandbetausers/
-* /r/Coupons - https://www.reddit.com/r/coupons/
-* /r/DesignCritques - https://www.reddit.com/r/design_critiques/
-* /r/Entrepreneur - http://reddit.com/r/entrepreneur
-* /r/IMadeThis - http://reddit.com/r/imadethis
-* /r/IndieBiz - https://www.reddit.com/r/indiebiz/
-* /r/LadyBusiness - https://www.reddit.com/r/ladybusiness/
-* /r/RoastMyStartup - https://www.reddit.com/r/roastmystartup
-* /r/ShamelessPlug - https://www.reddit.com/r/shamelessplug/
 * /r/SideProject - http://reddit.com/r/sideproject (https://www.reddit.com/r/SideProject/comments/7uj5bi/tokeeen_is_a_webapp_allowing_you_to_track_your/)
 * /r/SmallBusiness - https://www.reddit.com/r/smallbusiness/
 * /r/Startups - http://reddit.com/r/startups

@@ -54,8 +54,8 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Digg - http://digg.com/submit
 * Discova - http://www.discova.co/
 * Discover Cloud - https://www.discovercloud.com/become-a-vendor
-* Erlibird - https://erlibird.com/beta-testing
-* F6S - http://www.f6s.com/
+* Erlibird - https://erlibird.com/beta-testing (prix de base 735 $)
+* F6S - http://www.f6s.com/)
 * Feed My App - https://feedmyapp.com/submit/
 * FireSpotting - http://firespotting.com/submit
 * G2 Crowd - https://www.g2crowd.com/products/new
